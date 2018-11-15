@@ -9,5 +9,8 @@
 	},
 	"description": "Dlang UI demos",
 	"copyright": "Copyright © 2018, Lawrence Aberba",
-	"license": "proprietary"
+	"license": "proprietary",
+	
+    "targetPath": "bin",
+    "targetType": "executable",
 }
