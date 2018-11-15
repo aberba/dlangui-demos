@@ -7,8 +7,11 @@ dlangui-demos.dylib
 dlangui-demos.dll
 dlangui-demos.a
 dlangui-demos.lib
+dlangui-demos
 dlangui-demos-test-*
 *.exe
 *.o
 *.obj
 *.lst
+
+
