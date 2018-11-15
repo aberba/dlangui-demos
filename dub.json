@@ -1,0 +1,13 @@
+{
+	"name": "dlangui-demos",
+	"authors": [
+		"Lawrence Aberba"
+	],
+	"dependencies": {
+		"dlangui": "~>0.9.180",
+		"requests": "~>1.0.1"
+	},
+	"description": "Dlang UI demos",
+	"copyright": "Copyright © 2018, Lawrence Aberba",
+	"license": "proprietary"
+}
